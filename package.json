@@ -1,0 +1,34 @@
+{
+  "name": "react-native-basic-skeleton",
+  "version": "1.0.0",
+  "description": "Basic Skeleton Loader for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "skeleton",
+    "loading",
+    "react-native-loading",
+    "react-native-skeleton",
+    "react-native-basic",
+    "react-native-basic-skeleton",
+    "rn-skeleton",
+    "rn-loading",
+    "rn-skeleton",
+    "rn-basic-skeleton"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkcansmet/react-native-basic-skeleton.git"
+  },
+  "author": "Berkcan Samet Gürdal <berkcansametgurdal@gmail.com> (https://github.com/berkcansmet)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berkcansmet/react-native-basic-skeleton/issues"
+  },
+  "homepage": "https://github.com/berkcansmet/react-native-basic-skeleton#readme"
+}
